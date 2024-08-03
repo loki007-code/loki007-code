@@ -19,12 +19,12 @@ FullStack Developer
 
 
 
-![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=loki007-code)(https://github.com/loki007-code/github-readme-stats)
+![Logesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=loki007-code)
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dlaravindhtechie?theme=nord&font=Alata&ext=heatmap)](https://leetcode.com/u/dlaravindhtechie/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dlaravindhtechie?theme=nord&font=Alata&ext=heatmap)](https://leetcode.com/u/dlaravindhtechie/)
 
 
 
-[![Logesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loki007-code&bg_color=494647&color=e0dce0&line=e6dbe5&point=da2b2b&area=true&hide_border=true)](https://github.com/loki007-code/github-readme-activity-graph)
+[![Logesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loki007-code&bg_color=494647&color=e0dce0&line=e6dbe5&point=da2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
