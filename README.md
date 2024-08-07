@@ -34,3 +34,5 @@ FullStack Developer
 
 
 [![Logesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loki007-code&bg_color=494647&color=e0dce0&line=e6dbe5&point=da2b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![web-chatgpt-qq-bot's Github Stats](https://stats.deeptrain.net/repo/zmh-program/web-chatgpt-qq-bot/?theme=dark)](https://www.naukri.com/code360/profile/c160eab2-1678-4c43-ba35-dcb335195990)
