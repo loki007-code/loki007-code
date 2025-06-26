@@ -6,6 +6,10 @@ FullStack Developer
 ### 🌟 Trailblazer Profile
 Check out my Salesforce learning journey and badges on : [![Trailblazer Profile](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce)](https://www.salesforce.com/trailblazer/hbiiqihdht0hv294v1)
 
+![Badges](https://img.shields.io/badge/Trailhead_Badges-100+-blue?logo=salesforce)
+![Points](https://img.shields.io/badge/Trailhead_Points-50,000+-blue?logo=salesforce)
+![Rank](https://img.shields.io/badge/Trailhead_Rank-Ranger-success?logo=salesforce)
+![Superbadge](https://img.shields.io/badge/Superbadge_Unit-Prompt_Builder_Templates-ff69b4?logo=salesforce)
 
 
 - 🔭 Here's my [portfolio](https://loki-00.web.app/)                                                 
