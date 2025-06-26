@@ -6,6 +6,9 @@ FullStack Developer
 ### 🌟 Trailblazer Profile
 Check out my Salesforce learning journey and badges on : [![Trailblazer Profile](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce)](https://www.salesforce.com/trailblazer/hbiiqihdht0hv294v1)
 
+🧩 Key Milestone
+🏆 Completed the Prompt Builder Templates Superbadge Unit, demonstrating applied knowledge of Salesforce Prompt Builder and GenAI template creation.
+
 ![Badges](https://img.shields.io/badge/Trailhead_Badges-100+-blue?logo=salesforce)
 ![Points](https://img.shields.io/badge/Trailhead_Points-50,000+-blue?logo=salesforce)
 ![Rank](https://img.shields.io/badge/Trailhead_Rank-Ranger-success?logo=salesforce)
