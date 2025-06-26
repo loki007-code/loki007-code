@@ -4,7 +4,8 @@ FullStack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 🌟 Trailblazer Profile
-Check out my Salesforce learning journey and badges on [Trailblazer.me]([https://trailblazer.me/id/youralias](https://www.salesforce.com/trailblazer/hbiiqihdht0hv294v1)).
+[![Trailblazer Profile](https://img.shields.io/badge/Salesforce-Trailblazer-blue?logo=salesforce)](https://www.salesforce.com/trailblazer/hbiiqihdht0hv294v1)
+
 
 
 - 🔭 Here's my [portfolio](https://loki-00.web.app/)                                                 
